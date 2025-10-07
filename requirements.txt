@@ -2,3 +2,10 @@ crewai
 crewai_tools
 load_dotenv
 langchain_huggingface
+
+pinecone
+pinecone-text
+pinecone-notebooks
+langchain_community
+ipykernel
+sentence-transformers
